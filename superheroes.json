@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Batman",
+    "age": 40,
+    "genre": "Maschile",
+    "img_url": "https://bandai.com.mx/blog/wp-content/uploads/2019/09/Historia-de-Batman-el-superhe%CC%81roe-ma%CC%81s-popular-en-la-era-digital-copia-1.jpg",
+    "powers": "Intelligenza, arti marziali, equipaggiamento tecnologico avanzato",
+    "is_alive": true
+  },
+  {
+    "id": 2,
+    "name": "Superman",
+    "age": 35,
+    "genre": "Maschile",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Superman_Man_of_Steel.jpg/250px-Superman_Man_of_Steel.jpgg",
+    "powers": "Super forza, volo, vista a raggi X, invulnerabilità, super velocità",
+    "is_alive": true
+  },
+  {
+    "id": 3,
+    "name": "Wonder Woman",
+    "age": 3000,
+    "genre": "Femminile",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwr_g0X-Q8tAbzNWdoQkrxnblbEZUkDd7YoQ&s",
+    "powers": "Forza sovrumana, agilità, capacità di combattimento, lancia magica, volo",
+    "is_alive": true
+  },
+  {
+    "id": 4,
+    "name": "Spider-Man",
+    "age": 18,
+    "genre": "Maschile",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhGj3GmD7ZTM_wF-DeHErVwTzZL5WLrszghA&s",
+    "powers": "Agilità, senso di ragno, arrampicarsi sui muri, forza sovrumana",
+    "is_alive": true
+  },
+  {
+    "id": 5,
+    "name": "Iron Man",
+    "age": 45,
+    "genre": "Maschile",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNnnbuugxluwyojrfWNfqHN1K0tzybPYWog&s",
+    "powers": "Armatura potenziata, intelligenza geniale, volo, armi avanzate",
+    "is_alive": false
+  },
+  {
+    "id": 6,
+    "name": "Black Widow",
+    "age": 32,
+    "genre": "Femminile",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCpD86cEOWePDuDaoP2w98XoFblqWxycZ0A&s",
+    "powers": "Abilità in arti marziali, agilità, infiltrazione, uso di gadget",
+    "is_alive": true
+  }
+]
